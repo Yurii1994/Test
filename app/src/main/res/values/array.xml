@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="colors">
+        <item>#ff0000</item>
+        <item>#00ff00</item>
+        <item>#FF4081</item>
+        <item>#ffffff</item>
+        <item>#2196F3</item>
+        <item>#B2EBF2</item>
+        <item>#1976D2</item>
+    </string-array>
+</resources>

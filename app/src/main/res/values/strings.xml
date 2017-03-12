@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="not_internet">Немає інтернет з\'єднання</string>
+    <string name="update">Оновити</string>
+    <string name="detail">Детальніше</string>
+    <string name="ok">Ok</string>
+    <string name="time">Поточний час</string>
+</resources>
